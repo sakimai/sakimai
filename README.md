@@ -7,7 +7,7 @@
   <p align="left"> <img src="https://komarev.com/ghpvc/?username=saki-imai-1204&label=Profile%20views&color=0e75b6&style=flat" alt="saki-imai-1204" /> </p>
   <img align="right" alt="Coding" width="400" src="https://media.tenor.com/S59bPkT0pqcAAAAC/programming.gif">
   
-- 👋 Hi, I’m @saki-imai-1204
+- 👋 Hi, I’m @sakimai
 - 🌱 I’m currently a PhD student at Northeastern University
 - 📫 How to reach me imai.s@northeastern.edu
 
